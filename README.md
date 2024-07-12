@@ -3,6 +3,12 @@
 
 - 👯 Actualmente estoy colaborando [MovieMate](https://github.com/4GeeksAcademy/Latam-pt-30-AdriCabrera-Movie-Generator-Final-Project)
 
+- 🌱 Actualmente estoy aprendiendo **SQL**
+
+- 💬 Ask me about **Js,React, HTML, CSS3,**
+
+- 📫 Como contactarmme **katerine@kath424.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/katerine-acosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katerine-acosta" height="30" width="40" /></a>
