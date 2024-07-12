@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Js,React, HTML, CSS3,**
 
-- 📫 Como contactarmme **katerine@kath424.com**
+- 📫 Como contactarme **katerine@kath424.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
