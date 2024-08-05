@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katerine Acosta</h1>
-<h3 align="center">Frontend developer apasionada por la tecnologia</h3>
+<h3 align="center">Frontend developer apasionada por la tecnología.</h3>
 
 - 👯 Actualmente estoy colaborando [MovieMate](https://github.com/4GeeksAcademy/Latam-pt-30-AdriCabrera-Movie-Generator-Final-Project)
 
